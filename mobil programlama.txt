@@ -1,0 +1,17 @@
+1/23/2024 = https://youtu.be/lIA_8wqda6M
+1/26/2024 = https://www.youtube.com/watch?v=ZadR6sTuiJg
+1/30/2024 = https://www.youtube.com/watch?v=f3aZ56jvqCw
+2/1/2024  = https://www.youtube.com/watch?v=bpXBytTLemU&t=6119s
+ekders    = https://www.youtube.com/watch?v=_Q8NaEsW0hg
+izlenmeli = https://www.youtube.com/watch?v=OFau4qMgQho
+izlenmeli = https://www.youtube.com/watch?v=o-SI7LJCG9U
+2/6/2024  = https://www.youtube.com/watch?v=i6Obhqi7KF8 // icon, giriş sayfa , adres değiştirme
+2/9/2024  = https://www.youtube.com/watch?v=79XJyexiOBw
+WİDGET    = https://www.youtube.com/playlist?list=PL82uaKJraAILRBFE1XhCyfvu-Fclc6vv1
+2/13/2024 = https://www.youtube.com/watch?v=51CFKHW54H0
+          = https://youtube.com/live/zLKzwWZX__4?feature=share
+
+
+
+flutter launcher icon = icon değiştirme
+flutter native splash = giriş kapagı ayarı
